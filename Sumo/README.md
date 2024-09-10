@@ -18,6 +18,8 @@
 
 - no terminal, execute o comando netconvert --osm-files file.osm -o file.net.xml para executar a conversão.
 
+        observação: caso o arquivo que deseja converter não esteja na mesma pasta, deve-se passar o caminho do arquivo.
+
 ## Executando o Sumo
 
 - Abra o sumo
